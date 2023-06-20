@@ -1,0 +1,16 @@
+Package: KWA1D
+Type: Package
+Title: Adaptive Location and Scale Estimation with Kernel Weighted Averages
+Version: 1.0.0
+Date: 2023-06-15
+Author: Michael Pokojovy, Su Chen, Andrews T. Anum, John Koomson
+Maintainer: Michael Pokojovy <michael.pokojovy@gmail.com>
+Description: Compute Kernel Weighted Average Estimates of Univariate Location and Scale Parameters.
+License: GNU
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+LinkingTo: 
+    Rcpp, robustbase
+Imports: 
+    Rcpp, robustbase, goftest

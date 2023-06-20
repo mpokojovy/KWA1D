@@ -1,0 +1,7 @@
+#exportPattern("^[[:alpha:]]+")
+useDynLib(KWA1D, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+export(KWA1D.loc)
+export(KWA1D.scale)
+export(KWA1D.loc.scale)
+export(KWA1D.estimator)
