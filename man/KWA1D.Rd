@@ -65,14 +65,9 @@ Rousseeuw, P. J. and Leroy, A. M. (1987) \emph{Robust Regression and Outlier Det
 \author{
 Michael Pokojovy (\email{michael.pokojovy@gmail.com}), Su Chen, Andrews T. Anum, John Koomson
 }
-\keyword{KWA,}
-\keyword{Student's}
-\keyword{\emph{t}-distribution,}
-\keyword{average,}
-\keyword{bandwidth,}
-\keyword{density}
-\keyword{functional,}
-\keyword{heavy}
-\keyword{kernel}
-\keyword{tails}
-\keyword{weighted}
+\keyword{KWA}
+\keyword{kernel weighted average}
+\keyword{Student's \emph{t}-distribution}
+\keyword{bandwidth selection}
+\keyword{density functional}
+\keyword{heavy tails}
