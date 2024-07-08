@@ -52,7 +52,7 @@ KWA1D.loc.scale(x, df)
 
 }
 \references{
-Pokojovy, M., Chen, S., Anum, A.T and Koomson, J. (2023) Adaptive location and scale estimation with kernel weighted averages. (submitted)
+Pokojovy, M., Chen, S., Anum, A.T and Koomson, J. (2024) Adaptive location and scale estimation with kernel weighted averages. \emph{Communications in Statistics: Simulation and Computation} (accepted)
 
 Rousseeuw, P.J. and Croux, C. (1993) Alternatives to the median absolute deviation. \emph{Journal of the
 American Statistical Association} \strong{88}, 1273–1283.
