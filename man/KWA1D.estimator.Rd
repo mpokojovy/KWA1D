@@ -35,10 +35,9 @@ KWA1D.estimator(x, df.search = seq(1, 5, by = 0.05)) #using a user-provided sear
 
 }
 \references{
-Pokojovy, M., Chen, S., Anum, A.T and Koomson, J. (2023) Adaptive location and scale estimation with kernel weighted averages. (submitted)
+Pokojovy, M., Chen, S., Anum, A.T and Koomson, J. (2023) \emph{Communications in Statistics: Simulation and Computation} (accepted)
 
-Rousseeuw, P.J. and Croux, C. (1993) Alternatives to the Median Absolute Deviation. \emph{Journal of the
-American Statistical Association} \strong{88}, 1273–1283.
+Rousseeuw, P.J. and Croux, C. (1993) Alternatives to the Median Absolute Deviation. \emph{Journal of the American Statistical Association} \strong{88}, 1273–1283.
 
 Rousseeuw, P. J. and Leroy, A. M. (1987) \emph{Robust Regression and Outlier Detection}. Wiley.
 }
