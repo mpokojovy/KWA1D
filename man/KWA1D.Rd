@@ -67,7 +67,7 @@ Michael Pokojovy (\email{michael.pokojovy@gmail.com}), Su Chen, Andrews T. Anum,
 }
 \keyword{KWA}
 \keyword{kernel weighted average}
-\keyword{Student's \emph{t}-distribution}
+\keyword{Student's t-distribution}
 \keyword{bandwidth selection}
 \keyword{density functional}
 \keyword{heavy tails}
